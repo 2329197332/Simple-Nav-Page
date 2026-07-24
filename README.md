@@ -39,6 +39,7 @@
 ## 📸 示例
 
 主页👉 https://xmynscnq.github.io/Simple-Nav-Page
+
 纵向瀑布流模式
 <img width="1920" height="919" alt="王五导航 (24 06 2026 17_30)" src="https://github.com/user-attachments/assets/00db60cd-502b-425a-aed6-278d20d6c5f1" />
 切换单分页模式
