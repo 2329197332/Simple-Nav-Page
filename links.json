@@ -422,7 +422,7 @@
         "title": "Claude",
         "url": "https://claude.ai/",
         "desc": "Anthropic AI助手",
-        "data-desc": "Anthropic 旗下 AI 对话助手，擅长写作、分析与代码，Claude 3.5"
+        "data-desc": "Anthropic 旗下 AI 对话助手，擅长写作、分析与代码"
       },
       {
         "title": "ChatGPT",
@@ -434,20 +434,26 @@
         "title": "Gemini",
         "url": "https://gemini.google.com/",
         "desc": "谷歌多模态AI",
-        "data-desc": "谷歌旗下多模态 AI 大模型，支持图文理解与对话，Gemini 1.5 Pro"
+        "data-desc": "谷歌旗下多模态 AI 大模型，支持图文理解与对话"
       },
       {
         "title": "DeepSeek",
         "url": "https://chat.deepseek.com/",
         "desc": "国产顶级AI大模型",
-        "data-desc": "国产顶级 AI 大模型，深度思考、代码辅助，深度求索，DeepSeek R1",
+        "data-desc": "国产顶级 AI 大模型，深度思考、代码辅助，深度求索",
         "icon": "icons/logos/deepseek-copy-copy-copy-copy-copy.svg"
+      },
+      {
+        "title": "Grok",
+        "url": "https://grok.x.ai",
+        "desc": "xAI 实时多模态AI",
+        "data-desc": "xAI开发的大模型，深度整合X(Twitter)实时信息流，风格幽默犀利，支持逻辑推理与多模态交互"
       },
       {
         "title": "Kimi",
         "url": "https://kimi.moonshot.cn/",
         "desc": "月之暗面AI助手",
-        "data-desc": "月之暗面旗下 AI 助手，支持超长上下文，文件阅读与分析，Kimi"
+        "data-desc": "月之暗面旗下 AI 助手，支持超长上下文，文件阅读与分析"
       },
       {
         "title": "文心一言",
