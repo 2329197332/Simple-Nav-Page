@@ -53,8 +53,8 @@
       {
         "title": "王五主页",
         "url": "https://wwzy.ccwu.cc/jianjie",
-        "desc": "个人主页",
-        "data-desc": "王五的个人主页",
+        "desc": "主页展示",
+        "data-desc": "王五的个人主页展示，联系方式",
         "icon": "icons/logos/favicon.png"
       }
     ]
