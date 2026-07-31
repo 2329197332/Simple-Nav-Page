@@ -204,3 +204,17 @@ token就是一个有权限读写你所授权的仓库的钥匙，从而实现在
 ## 📄 开源协议
 
 使用 MIT License，可自由使用与修改。
+
+## 📮 问题反馈
+
+如果遇到 Bug 或使用问题，欢迎提交 GitHub Issue：
+
+🐛 Issue：[提交问题](https://github.com/xmynscnq/Simple-Nav-Page/issues)
+
+## ☕ 支持项目
+
+如果这个项目对你有帮助，欢迎请作者喝杯咖啡 ☕
+
+<img width="691" height="691" alt="微信图片_20260801073053_23_2" src="https://github.com/user-attachments/assets/e0787110-28e0-40ff-aa83-65346a54f85b" />
+
+感谢你的支持 ❤️
