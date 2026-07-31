@@ -215,6 +215,6 @@ token就是一个有权限读写你所授权的仓库的钥匙，从而实现在
 
 如果这个项目对你有帮助，欢迎请作者喝杯咖啡 ☕
 
-<img width="691" height="691" alt="微信图片_20260801073053_23_2" src="https://github.com/user-attachments/assets/e0787110-28e0-40ff-aa83-65346a54f85b" />
+<img width="285" height="284" alt="微信图片_20260801073053_23_2" src="https://github.com/user-attachments/assets/950f41a3-dbf7-4597-aa07-7cf3b367212c" />
 
 感谢你的支持 ❤️
