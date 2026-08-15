@@ -133,7 +133,7 @@ https://api.xxx.com
 
 ```js id="m9g4cq"
 const PROXY = 'https://api.xxx.com';
-注意后面不要带有斜杠/
+注意后面不要带有斜杠/，不要写成https://api.xxx.com/
 当导航页显示许多兜底图标“黑白地球”时，表示worker异常。（duckduckgo默认图标为箭头，google默认图标为彩色地球，显示其中之一为正常）
 ```
 
@@ -213,8 +213,8 @@ token就是一个有权限读写你所授权的仓库的钥匙，从而实现在
 
 ## ☕ 支持项目
 
-如果这个项目对你有帮助，欢迎请作者喝杯咖啡 ☕
+如果这个项目对你有帮助，欢迎打赏。
 
 <img width="285" height="284" alt="微信图片_20260801073053_23_2" src="https://github.com/user-attachments/assets/950f41a3-dbf7-4597-aa07-7cf3b367212c" />
 
-感谢你的支持 ❤️
+您的打赏是我维护项目的最大动力，赏金将用于支持公益事业。 ❤️
