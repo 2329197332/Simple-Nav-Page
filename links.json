@@ -3,7 +3,7 @@
     "section": "常用",
     "items": [
       {
-         "title": "哔哩哔哩",
+        "title": "哔哩哔哩",
         "url": "https://www.bilibili.com/",
         "desc": "视频、动漫、弹幕",
         "data-desc": "视频弹幕网站，涵盖动漫、学习与娱乐、B站、b站"
@@ -51,10 +51,10 @@
         "data-desc": "此导航页背景所依赖的公开免费API"
       },
       {
-        "title": "王五主页",
-        "url": "https://wwzy.ccwu.cc/jianjie",
-        "desc": "主页展示",
-        "data-desc": "王五的个人主页展示，联系方式",
+        "title": "杭州 飞牛OS",
+        "url": "http://192.168.31.218:5666/",
+        "desc": "由NUC7代主机搭建的轻nas系统",
+        "data-desc": "nuc nas 飞牛",
         "icon": "icons/logos/favicon.png"
       }
     ]
