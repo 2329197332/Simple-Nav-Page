@@ -45,10 +45,11 @@
         "data-desc": "全球领先的 CDN 与网络安全服务、大善人"
       },
       {
-        "title": "IMGAPI",
-        "url": "https://imgapi.cn",
-        "desc": "此导航背景API",
-        "data-desc": "此导航页背景所依赖的公开免费API"
+        "title": "网盘资源搜索",
+        "url": "",
+        "desc": "网盘资源搜索",
+        "data-desc": "网盘 资源 搜索",
+        "intranet": "http://192.168.31.218:8899/"
       },
       {
         "title": "杭州 飞牛OS",
@@ -56,6 +57,20 @@
         "desc": "由NUC7代主机搭建的轻nas系统",
         "data-desc": "nuc nas 飞牛",
         "intranet": "http://192.168.31.218:5666/"
+      },
+      {
+        "title": "MeTube网络视频下载",
+        "url": "",
+        "desc": "MeTube",
+        "data-desc": "MeTube",
+        "intranet": "http://192.168.31.218:8081/"
+      },
+      {
+        "title": "TaleBook书库",
+        "url": "",
+        "desc": "TaleBook书库",
+        "data-desc": "TaleBook书库",
+        "intranet": "http://192.168.31.218:58080/"
       }
     ]
   },
