@@ -560,5 +560,15 @@
         "data-desc": "老牌综合网址导航站，360，日常常用网站入口"
       }
     ]
+  },
+  {
+    "section": "游戏",
+    "items": [
+      {
+        "title": "Automods",
+        "url": "https://automods.cn/",
+        "desc": ""
+      }
+    ]
   }
 ]
