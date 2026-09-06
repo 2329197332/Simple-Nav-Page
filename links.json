@@ -53,6 +53,11 @@
         "title": "云易搜",
         "url": "https://so.yuneu.com/",
         "desc": ""
+      },
+      {
+        "title": "二维码解析",
+        "url": "https://cli.im/deqr",
+        "desc": ""
       }
     ]
   },
