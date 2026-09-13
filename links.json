@@ -570,6 +570,11 @@
         "title": "tailwind中文网",
         "url": "https://tailwind.nodejs.cn/",
         "desc": ""
+      },
+      {
+        "title": "Lodash中文文档",
+        "url": "https://www.lodashjs.com/",
+        "desc": ""
       }
     ]
   }
